@@ -1,0 +1,10 @@
+Backpack
+Bottles
+Bowl
+Cereal Box
+Chair
+Joysticks
+Pens
+Phone
+Shoe
+Watch
