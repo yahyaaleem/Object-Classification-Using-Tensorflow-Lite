@@ -5,3 +5,6 @@ Created a dataset of household objects by clicking 700 images consisting of 10 d
 Trained the neural network on this dataset using EfficientNet-Lite model.
 Converted it to Tensorflow Lite format in order to run it on the cellphone.
 Deployed it on my Android phone using Android Studio.
+
+
+Link: https://www.linkedin.com/posts/yahyaaleem_tensorflow-tensorflowlite-androidappdevelopment-activity-6783167297310748672-7Dk5
